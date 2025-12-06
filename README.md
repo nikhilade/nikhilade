@@ -44,6 +44,68 @@
 
 </div>
 
+## 🧰 Tech Stack
+
+<table>
+  <tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Database & Tools</th>
+  </tr>
+
+  <tr>
+    <!-- FRONTEND -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" /><br>
+      <b>React</b>
+      <br><br>
+
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" /><br>
+      <b>JavaScript</b>
+      <br><br>
+
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" /><br>
+      <b>HTML5</b>
+      <br><br>
+
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" /><br>
+      <b>CSS3</b>
+    </td>
+
+    <!-- BACKEND -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" /><br>
+      <b>Spring Boot</b>
+      <br><br>
+
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" /><br>
+      <b>Java</b>
+      <br><br>
+
+      <img src="https://cdn-icons-png.flaticon.com/512/1087/1087927.png" width="50" /><br>
+      <b>REST API</b>
+    </td>
+
+    <!-- DATABASE & TOOLS -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" /><br>
+      <b>MySQL</b>
+      <br><br>
+
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" /><br>
+      <b>Postman</b>
+      <br><br>
+
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" /><br>
+      <b>Git</b>
+      <br><br>
+
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" /><br>
+      <b>VS Code</b>
+    </td>
+  </tr>
+</table>
+
 
 ### ✨ Quote I Live By
 > *“The only way to learn to build software is to build more software.”*
