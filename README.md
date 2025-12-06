@@ -4,73 +4,32 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **Full-Stack Development**
-- 💻 I work with **ReactJS, Spring Boot & MySQL**
-- 🔧 Building real-world projects to level up every day
-- 🎯 Focus: Clean UI, Smooth APIs, and Practical Applications
-- ⚡ Fun fact: I break things → fix them → and learn from them 😉
+- 🌱 Currently learning **Full-Stack Development**
+- 💻 Working with **ReactJS, Spring Boot & MySQL**
+- 🎯 I enjoy building real-world apps with clean UI & good APIs
+- ⚡ Fun fact: I break things → fix them → learn from them 😄
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### **Frontend**
-- ReactJS  
-- HTML, CSS, JavaScript  
-- Axios, Bootstrap / Tailwind
-
-#### **Backend**
-- Spring Boot  
-- REST APIs  
-- JWT Authentication
-
-#### **Database**
-- MySQL  
-- JPA / Hibernate
-
-#### **Tools**
-- VS Code  
-- IntelliJ IDEA  
-- Postman  
-- Git & GitHub  
-- MySQL Workbench  
-
----
-
-### 📌 Featured Projects
-- 🔍 **Job Portal Application**  
-  CRUD operations, JWT authentication, dynamic search using AJAX, ReactJS + Spring Boot.
-
-- 🐢 **Turtle Care Tracker** *(personal fun project idea 😄)*  
-  Track feeding, lighting, tank setup tips, reminders, etc.
-
-> Want me to help write project descriptions too? I can add screenshots, GIF sections, badges, and live demo links.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak" />
-</p>
-
----
-
-### 🌐 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-### ✨ Quote I Live By
-> *“The only way to learn to build software is to build more software.”*
-
----
-
-### ⭐ Thanks for visiting!
-
-If you like my work, consider giving a ⭐ to my repositories 😊
+<table>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="center"><strong>Backend</strong></td>
+    <td align="center"><strong>Database & Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor
