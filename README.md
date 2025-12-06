@@ -11,34 +11,38 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
+
+<div align="center">
 
 <table>
   <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td align="center"><strong>Backend</strong></td>
-    <td align="center"><strong>Database & Tools</strong></td>
+    <th align="center">Frontend</th>
+    <th align="center">Backend</th>
+    <th align="center">Database & Tools</th>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=react" height="50"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=js" height="50"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=html" height="50"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=css" height="50"/>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=spring" height="50"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=java" height="50"/><br/><br/>
+      <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" height="35"/>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    <td align="center" width="200">
+      <img src="https://skillicons.dev/icons?i=mysql" height="50"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postman" height="50"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git" height="50"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
     </td>
   </tr>
 </table>
+
+</div>
 
 
 ### ✨ Quote I Live By
