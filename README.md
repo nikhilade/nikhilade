@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-image-link-here.com/banner.png" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">Full-stack Developer (ReactJS + Spring Boot)</h3>
 
